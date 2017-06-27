@@ -12,7 +12,7 @@ do
   |  __/| '__|/ _ \ | | / _ \| |/ /| __|  / /  
   | |   | |  | (_) || ||  __/|   < | |_ ./ /   
   \_|   |_|   \___/ | | \___||_|\_\ \__|\_/    
-                   _/ |SERVER                        
+                   _/ |                        
                   |__/ 
 
 
@@ -20,11 +20,11 @@ do
 "
  echo "=============================================="
   
-  echo "Enter 1 to list users: "
-  echo "Enter 2 to show server usage: "
+  echo "Enter 1 to list logged users: "
+  echo "Enter 2 to monitor system processes: "
   echo "Enter 3 to get update: "
-  echo "Enter 4 to restart server: "
-  echo "Enter 5 to shut down  server: "
+  echo "Enter 4 to restart system: "
+  echo "Enter 5 to shut down system: "
   echo "Enter q to exit the menu: "
   echo -e "\n"
   echo -e "Enter your selection \c"
