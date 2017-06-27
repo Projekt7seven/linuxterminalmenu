@@ -1,3 +1,3 @@
 # linuxterminalmenu
 Very basic menu interface to speed up basic task on the terminal.
-Current version is a prototype with not many menu options but more complex menu options can be added.
+Current version does not have many menu options but more complex options can be added.
