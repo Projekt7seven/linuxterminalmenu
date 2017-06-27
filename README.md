@@ -1,12 +1,11 @@
 # linuxterminalmenu
 
-DESCRIPTION:
+Description
 -----------------------------------------------------
 Very basic menu interface to speed up basic task on the terminal.
 Current version does not have many menu options but more complex options can be added.
 
-
-HOW TO SET MENU TO EXECUTE EVERYTIME YOU LOG IN TO THE TERMINAL:
+How to set up the menu to execute everytime you log in to the terminal:
 -----------------------------------------------------
 Put the following code at the end of the user's .bashrc file: 
 
