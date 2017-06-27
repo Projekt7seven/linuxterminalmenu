@@ -21,4 +21,7 @@ vi ~youruser/.bashrc
 That's it, now everytime the user opens the terminal it will automatically execute and display the menu.
 (REMEMBER TO CHANGE THE PATHS ACCORDING TO YOURS,DO NOT COPY PASTE THE CODE EXACTLY THE WAY IT IS HERE.)
 
+If you want to use the usage option you need to install the following program:
+------------------------------------------------------
+apt-get install htop
 
