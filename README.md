@@ -1,5 +1,7 @@
 # linuxterminalmenu
 
+![Screenshot](screenshot.png)
+
 Description
 -----------------------------------------------------
 Very basic menu interface to speed up basic task on the terminal.
