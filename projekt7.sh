@@ -22,7 +22,7 @@ do
  echo -e "${Gre}"
  echo "=============================================="
   
-  echo "Enter 1 to list logged users: "
+  echo "Enter 1 to list logged-in users: "
   echo "Enter 2 to monitor system processes: "
   echo "Enter 3 to get update: "
   echo "Enter 4 to restart system: "
