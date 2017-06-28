@@ -5,7 +5,7 @@ Gre='\e[0;32m';
 trap '' 2
 while true
 do
-  echo -e "${Gre}"
+  echo -e "${Whi}"
   echo "==============================================="
   echo -e "${Whi}"
   echo "
