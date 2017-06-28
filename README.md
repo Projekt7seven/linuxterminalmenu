@@ -1,6 +1,6 @@
 # linuxterminalmenu
 
-![Screenshot](screenshot2.png)
+![Screenshot](MenuScreenshot.png)
 
 Description
 -----------------------------------------------------
