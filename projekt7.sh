@@ -1,10 +1,14 @@
 #!/bin/bash
+Whi='\e[0;37m'; 
+Red='\e[0;31m';
+Gre='\e[0;32m';
 trap '' 2
 while true
 do
+  echo -e "${Gre}"
+  echo "==============================================="
+  echo -e "${Whi}"
   echo "
-
-...............................................
 
   ______             _        _     _    ______
   | ___ \           (_)      | |   | |  |___  /
@@ -14,10 +18,8 @@ do
   \_|   |_|   \___/ | | \___||_|\_\ \__|\_/    
                    _/ |                        
                   |__/ 
-
-
-
 "
+ echo -e "${Gre}"
  echo "=============================================="
   
   echo "Enter 1 to list logged users: "
@@ -38,6 +40,7 @@ do
     5) sudo shutdown ;;
     q) exit ;;
   esac
+  echo -e "${Red}"
   echo -e "Enter return to continue \c"
   read input
 done
