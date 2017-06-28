@@ -35,7 +35,7 @@ do
     1) who
        uptime ;;
     2) htop;;
-    3) sudo sudo apt-get update ;;
+    3) sudo apt-get update ;;
     4) sudo reboot ;;
     5) sudo shutdown ;;
     q) exit ;;
